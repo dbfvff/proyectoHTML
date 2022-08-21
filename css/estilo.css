@@ -1,0 +1,7 @@
+body {
+    background-color: rgba(12, 86, 86, 0.841);
+}
+.resaltado  {
+    color: blue;
+    background-color: bisque;
+}
